@@ -1,0 +1,9 @@
+{
+  "name": "16vmjs",
+  "version": "0.1.0",
+  "description": "A 16 bit virtual machine written in Typescript",
+  "main": "index.js",
+  "repository": "https://github.com/salty-max/16vmjs.git",
+  "author": "salty-max <max@jellycat.fr>",
+  "license": "MIT"
+}
